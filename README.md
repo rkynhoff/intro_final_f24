@@ -9,16 +9,16 @@
 
 You are tasked with updating and syncing the repository with updated information. (factual or fictional).
 
-- [ ] Fork the repository.
-- [ ] Clone the repository to your computer.
-- [ ] Open the files in your code or text editor.
-- [ ] Replace the placeholder image with another photo.
-- [ ] Change button color to another color.
-- [ ] Update name and bio text.
-- [ ] Add JavaScript alert box.
-- [ ] Modify JavaScript.
-- [ ] Sync changes to GitHub.
-- [ ] Turn in assignment.
+- [x] Fork the repository.
+- [x] Clone the repository to your computer.
+- [x] Open the files in your code or text editor.
+- [x] Replace the placeholder image with another photo.
+- [x] Change button color to another color.
+- [x] Update name and bio text.
+- [x] Add JavaScript alert box.
+- [x] Modify JavaScript.
+- [x] Sync changes to GitHub.
+- [x] Turn in assignment.
 
 ## Instructions for Customizing Your Repo and Syncing to GitHub
 
